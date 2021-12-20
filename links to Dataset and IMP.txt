@@ -1,0 +1,4 @@
+Link to dataset:-https://www.kaggle.com/nikhileswarkomati/suicide-watch?select=Suicide_Detection.csv
+Name:- Sunil Sharanappa
+Ph:- 9731034714
+email id:- sunils0506@gmail.com
