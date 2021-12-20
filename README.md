@@ -6,4 +6,4 @@
 - import all other files(inits.py,layers.py,metrics.py,models.py,remove_words.py,train.py and utils.py) on to the root level, where the notebook is present.
 - Run it to see the results.
 
-Based on paper:- https://arxiv.org/pdf/1809.05679.pdf ( https://github.com/yao8839836/text_gcn)
+Reference paper:- https://arxiv.org/pdf/1809.05679.pdf ( https://github.com/yao8839836/text_gcn)
